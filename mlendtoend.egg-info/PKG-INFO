@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlendtoend
+Version: 0.0.1
+Author: naveen
+Author-email: naveenkumarchapala686@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
