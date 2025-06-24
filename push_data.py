@@ -1,3 +1,4 @@
+
 import os
 import sys
 import json
@@ -49,9 +50,9 @@ class NetworkDataExtract():
             raise NetworkException(e,sys)
         
 if __name__=='__main__':
-    FILE_PATH="networkdata\phisingData.csv"
-    DATABASE="NAVEENAI"
-    Collection="NetworkData"
+    FILE_PATH="networkdata/phisingData.csv"
+    DATABASE="sample_mflix"
+    Collection="Naveenai"
     networkobj=NetworkDataExtract()
     records=networkobj.csv_to_json_convertor(file_path=FILE_PATH)
     print(records)
@@ -60,3 +61,5 @@ if __name__=='__main__':
         
 
 
+
+    
