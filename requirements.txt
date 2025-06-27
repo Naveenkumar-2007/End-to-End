@@ -1,9 +1,10 @@
 pandas 
 numpy 
 scikit-learn
-pymongo[srv]==3.6
+pymongo[srv]==4.13.2
 pymongo
 pyaml
 mlflow
 dagshub
+fastapi
 #-e .

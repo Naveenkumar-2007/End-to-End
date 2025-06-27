@@ -1,0 +1,8 @@
+[ 2025-06-28 00:57:55,684 ] 148 numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2025-06-28 00:57:55,684 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-06-28 00:57:59,667 ] 1026 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-06-28 00:57:59,681 ] 107 dagshub - INFO - Accessing as Naveenkumar-2007
+[ 2025-06-28 00:58:00,579 ] 1026 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Naveenkumar-2007/End-to-End "HTTP/1.1 200 OK"
+[ 2025-06-28 00:58:01,363 ] 1026 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-06-28 00:58:01,368 ] 107 dagshub - INFO - Initialized MLflow to track repo "Naveenkumar-2007/End-to-End"
+[ 2025-06-28 00:58:01,368 ] 107 dagshub - INFO - Repository Naveenkumar-2007/End-to-End initialized!
