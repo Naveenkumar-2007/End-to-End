@@ -4,4 +4,6 @@ scikit-learn
 pymongo[srv]==3.6
 pymongo
 pyaml
-#-e .r
+mlflow
+dagshub
+#-e .
